@@ -1,0 +1,33 @@
+tag?
+tag is a special word that have some feature on html
+tag have opening and closing tag.
+some tag have only onpening tag.
+within tag we write contain..
+whole tag with contain are called element.
+Opening tag + content + Closing tag = element
+eg: <h1>Hello World</h1>
+
+
+
+vs code tips Ctrl +
+
+ctrl + D for select.
+Alt + Z for wriap
+alt +D  to slelect custom occurence
+alt + shift + up arrow or down arraow
+alt + up or down  : To move line
+alt + Z To wrap the words.
+
+
+
+<input type="button" value ="login"> ==> form submissin by default hudainw, inline level,
+<button> login<button> ==> by default form submission hunxa, block level element,aru tag haru halnw milxa
+
+
+echo "# WebDevBootCamp" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HariBist/WebDevBootCamp.git
+git push -u origin main
